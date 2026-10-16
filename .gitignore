@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Data, logs, generated output
+data/
+Data/
+qudi data/
+logs/
+*.log
+*.h5
+*.hdf5
+*.npz
+
+# Local, machine-specific settings (keep out of the public repo)
+.env
+*.local.py
+*.code-workspace
+
+# OS / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

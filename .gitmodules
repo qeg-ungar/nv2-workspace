@@ -1,0 +1,6 @@
+[submodule "qudi-iqo-modules"]
+	path = qudi-iqo-modules
+	url = https://github.com/samk782/qudi-iqo-modules.git
+[submodule "qua-libs"]
+	path = qua-libs
+	url = https://github.com/samk782/qua-libs.git

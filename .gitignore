@@ -23,7 +23,6 @@ logs/
 # Local, machine-specific settings (keep out of the public repo)
 .env
 *.local.py
-*.code-workspace
 
 # OS / editors
 Thumbs.db

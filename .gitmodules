@@ -1,6 +1,8 @@
 [submodule "qudi-iqo-modules"]
 	path = qudi-iqo-modules
-	url = https://github.com/samk782/qudi-iqo-modules.git
+	url = https://github.com/qeg-ungar/qudi-iqo-modules.git
+	branch = nv2-qeg
 [submodule "qua-libs"]
 	path = qua-libs
-	url = https://github.com/samk782/qua-libs.git
+	url = https://github.com/qeg-ungar/qua-libs.git
+	branch = nv2-qeg
